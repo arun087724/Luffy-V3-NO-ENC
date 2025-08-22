@@ -1,0 +1,21 @@
+{
+  "name": "Zoro Invinity",
+  "version": "1.0.0",
+  "main": "zoro.js",
+  "scripts": {
+    "start": "node zoro.js"
+  },
+  "dependencies": {
+    "lotusbail": "latest",
+    "@whiskeysockets/baileys": "github:axpaw-xone/Cgafsx-Baileys",
+    "chalk": "^1.0.0",
+    "crypto": "latest",
+    "dotenv": "^16.4.7",
+    "pino": "^9.6.0",
+    "telegraf": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "AIISIGMA",
+  "license": "EXC",
+  "description": "Gunakan dengan bijak!"
+}
